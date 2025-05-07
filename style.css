@@ -194,6 +194,7 @@ span{
     }
 }
 @keyframes words{
+    color:red
     0%, 20%{
         content: "Fivem Developer";
     }
